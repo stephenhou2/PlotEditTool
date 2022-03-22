@@ -1,0 +1,14 @@
+Library/
+Logs/
+MapEditor.sln
+obj/
+Packages/
+Temp/
+.vs/MapEditor/
+*.suo
+MapEditor.csproj
+Assembly-CSharp.csproj
+*.asset
+!*.exe
+!*.dll
+!*.pdb
